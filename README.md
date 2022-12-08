@@ -11,3 +11,5 @@ sosi loh
 
 some changes while testing git fetch
 new line to test git fetch
+
+New line after fetching
