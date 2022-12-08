@@ -8,3 +8,5 @@ Dada: wts boost hos 15g solo 5min run
 sosi pisos gandon
 
 sosi loh
+
+some changes while testing git fetch
