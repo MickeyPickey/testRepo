@@ -19,4 +19,9 @@ New line to show Daga and Tankin fetch working
 New lite to test git pull
 New pull test
 
+<<<<<<< HEAD
 New line to test pull
+=======
+
+NEW LINE TO TEST PULL2
+>>>>>>> 8d470970cb3dea895d28474bee90e0003c208a4e
