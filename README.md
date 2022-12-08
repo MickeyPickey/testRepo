@@ -14,3 +14,5 @@ new line to test git fetch
 
 New line after fetching
 New line to show Daga and Tankin fetch working
+
+New lite to test git pull
