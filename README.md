@@ -12,7 +12,4 @@ sosi loh
 some changes while testing git fetch
 new line to test git fetch
 
-New line after fetching
-New line to show Daga and Tankin fetch working
-
-New lite to test git pull
+New line after
